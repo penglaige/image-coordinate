@@ -1,0 +1,14 @@
+MalmoPython.so
+malmoutils.py
+depth_map_runner.py
+run_mission.py
+temp_results/
+test_files/
+logs/
+models/
+records/
+__pycache__/
+perform_records/
+mission_records/
+utils/__pycache__/
+.DS_Store
